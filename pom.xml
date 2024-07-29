@@ -45,7 +45,7 @@
     <commons-validator.version>1.7</commons-validator.version>
     <dwc-api.version>1.48</dwc-api.version>
     <findbugs-jsr305.version>3.0.2</findbugs-jsr305.version>
-    <jackson.version>2.17.1</jackson.version>
+    <jackson.version>2.17.2</jackson.version>
     <jts.version>1.16.1</jts.version>
     <logback.version>1.2.11</logback.version>
     <lombok.version>1.18.24</lombok.version>
